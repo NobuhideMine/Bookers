@@ -14,3 +14,12 @@
  *= require_self
  */
 
+.book-lists {
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.create-list {
+    margin-top: 30px;
+    font-size: 30px;
+}
